@@ -1,5 +1,5 @@
 require 'rspec'
-require './lib/animal'
+# require './lib/animal'
 require './lib/skill'
 require 'pry'
 
